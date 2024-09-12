@@ -29,7 +29,7 @@ async function getMainData() {
 
 	// 创建一个AbortController对象，用于控制fetch请求的取消
 	const controller = new AbortController();
-	const api = ""
+	const api = ["https://github.com/1-taylor-swift/CF-Workers-SUB/blob/main/link.txt"]
 	const timeout = setTimeout(() => {
 		controller.abort(); // 取消所有请求
 	}, 2000); // 2秒后触发
@@ -88,6 +88,7 @@ export default {
 		subconfig = env.SUBCONFIG || subconfig;
 		FileName = env.SUBNAME || FileName;
 		MainData = env.LINK || MainData;
+		MainData = await getMainData()
 		if(env.LINKSUB) urls = await ADD(env.LINKSUB);
 
 		const currentDate = new Date();
