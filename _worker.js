@@ -29,7 +29,7 @@ async function getMainData() {
 
 	// 创建一个AbortController对象，用于控制fetch请求的取消
 	const controller = new AbortController();
-	const api = ["https://raw.githubusercontent.com/1-taylor-swift/CF-Workers-SUB/main/link.txt"]
+	const api = ["https://github.com/1-taylor-swift/CF-Workers-SUB/blob/main/link.txt"]
 	const timeout = setTimeout(() => {
 		controller.abort(); // 取消所有请求
 	}, 2000); // 2秒后触发
