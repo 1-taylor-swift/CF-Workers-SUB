@@ -85,7 +85,7 @@ vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@13.57.241.143:80?encryption=none&se
 vless://a85fe1fa-686b-4b93-a1c4-c12fc17efe87@46.17.45.227:17267?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=safari&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&allowInsecure=1&type=tcp&headerType=none#RU-Baxet
 vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@175.211.223.106:10042?encryption=none&security=tls&sni=edgetunnel.madmax.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel.madmax.us.kg&path=%2F%3Fed%3D2560#KR%E6%9C%9D%E9%B2%9C
 vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@61.39.134.249:39838?encryption=none&security=tls&sni=edgetunnel.madmax.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel.madmax.us.kg&path=%2F%3Fed%3D2560#KR
-vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@125.136.53.240:12391?encryption=none&security=tls&sni=edgetunnel.madmax.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel.madmax.us.kg&path=%2F%3Fed%3D2560#KR
+vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@125.136.53.240:12391?encryption=none&security=tls&sni=edgetunnel.madmax.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel.madmax.us.kg&path=%2F%3Fed%3D2560#KR朝鲜
 vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@103.220.72.40:443?encryption=none&security=tls&sni=edgetunnel.madmax.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel.madmax.us.kg&path=%2F%3Fed%3D2560#HK
 vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@69.84.182.193:443?encryption=none&security=tls&sni=edgetunnel.madmax.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel.madmax.us.kg&path=%2F%3Fed%3D2560#US
 vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@198.62.62.251:443?encryption=none&security=tls&sni=edgetunnel.madmax.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel.madmax.us.kg&path=%2F%3Fed%3D2560#US
