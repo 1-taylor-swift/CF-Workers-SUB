@@ -1,6 +1,6 @@
 vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@69.84.182.172:443?encryption=none&security=tls&sni=edgetunnel.madmax.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel.madmax.us.kg&path=%2F%3Fed%3D2560#US
 vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@198.62.62.84:443?encryption=none&security=tls&sni=edgetunnel.madmax.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel.madmax.us.kg&path=%2F%3Fed%3D2560#US
-vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@121.143.118.236:12434?encryption=none&security=tls&sni=edgetunnel.madmax.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel.madmax.us.kg&path=%2F%3Fed%3D2560#KR
+vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@121.143.118.236:12434?encryption=none&security=tls&sni=edgetunnel.madmax.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel.madmax.us.kg&path=%2F%3Fed%3D2560#KR朝鲜
 vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@141.11.125.215:443?encryption=none&security=tls&sni=edgetunnel.madmax.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel.madmax.us.kg&path=%2F%3Fed%3D2560#HK
 vless://b256abb8-c643-49f9-9964-3bfea9e5bc07@221.161.207.216:37498?encryption=none&security=tls&sni=edgetunnel.madmax.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel.madmax.us.kg&path=%2F%3Fed%3D2560#KR朝鲜
 vless://1868aab5-d76b-4e82-a70e-7228b0c8224b@175.206.233.78:10065?encryption=none&security=tls&sni=edgetunnel-hk.alice-swift.us.kg&alpn=h3&fp=random&type=ws&host=edgetunnel-hk.alice-swift.us.kg&path=%2F%3Fed%3D2560#KR
